@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    color: yellow;
+    size: 5mm;
+}
+h1{
+    background-color: yellow;
+    size: 5mm;
+    background: fixed;
+    position: center;
+}
+
+a{
+    background-color: azure;
+    text-decoration: none;
+}
+.center{
+    text-align: center;
+}
